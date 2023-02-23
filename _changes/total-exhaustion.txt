@@ -1,7 +1,0 @@
-mods/data/total-exhaustion/total-exhaustion-hard.json
-mods/data/total-exhaustion/total-exhaustion-insane.json
-mods/data/total-exhaustion/total-exhaustion.json
-mods/songs/total-exhaustion/Voices.ogg
-mods/songs/total-exhaustion/Inst.ogg
-mods/songs/total-exhaustion/voices.ogg
-mods/songs/total-exhaustion/inst.ogg
