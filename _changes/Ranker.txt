@@ -1,0 +1,7 @@
+mods/data/ranker/ranker-hard.json
+mods/data/ranker/ranker-insane.json
+mods/data/ranker/ranker.json
+mods/songs/ranker/Voices.ogg
+mods/songs/ranker/Inst.ogg
+mods/songs/ranker/voices.ogg
+mods/songs/ranker/inst.ogg
